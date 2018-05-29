@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 87a2ac0a486e645fba100cdb9553ad88
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: b307d9b59f85ccb48b39583c28c66b24
+  - enabled: 1
+    path: Assets/Scenes/Option.unity
+    guid: 3422e0a583f4154489d101ec82aaa960
+  - enabled: 1
+    path: Assets/Scenes/MemoryListMain.unity
+    guid: 9bb2dd8212dd2524db405a9dc9615b2f
+  - enabled: 1
+    path: Assets/Scenes/MemoryList2.unity
+    guid: df4f6db3f5c53d84d839dbee17a3f5ac
+  - enabled: 1
+    path: Assets/Scenes/MemoryList3.unity
+    guid: 4ae04c2500181b94a8080c7b523b72bd
+  - enabled: 1
+    path: Assets/Scenes/MemoryList4.unity
+    guid: 7d21978b295ace6428e269c4a180452a
+  - enabled: 1
+    path: Assets/Scenes/MemoryList5.unity
+    guid: 462c4b14013773c47ae191a63aa9b4c3
+  - enabled: 1
+    path: Assets/Scenes/MemoryList1.unity
+    guid: 91292c29e7dfd194aad6b337e834a040
+  - enabled: 1
+    path: Assets/Scenes/TutorialStage1.unity
+    guid: e440c86cdf5af2e4abfe9f06ec607b88
+  - enabled: 1
+    path: Assets/Scenes/TutorialStage2.unity
+    guid: 6e44d80e1800a75458416c0b58aeb107
+  - enabled: 1
+    path: Assets/Scenes/TutorialStage3.unity
+    guid: 3c048e2822c2b29489db9e7bb3ee361c
+  - enabled: 1
+    path: Assets/Scenes/stage1-1.unity
+    guid: b319bfc38968157469444a4ada9ec8ec
+  - enabled: 1
+    path: Assets/Scenes/stage1-2.unity
+    guid: fb12a2e168845414faf7b34ea08afcfd
+  - enabled: 1
+    path: Assets/Scenes/stage1-3.unity
+    guid: 5f452ef2ef6309b40b6186ca38f17a03
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 4dc8094c2e99e5f41b1f1e1cfb935555
+  - enabled: 1
+    path: Assets/Scenes/stage2-1.unity
+    guid: 37d9e8c3013870b49850362d9e9cc6ec
+  - enabled: 1
+    path: Assets/Scenes/stage2-2.unity
+    guid: 579fb3afe721f0746afc8f16a9df17ba
+  - enabled: 1
+    path: Assets/Scenes/stage2-3.unity
+    guid: 38c98ca72704d8343b8d064298548554
